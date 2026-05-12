@@ -1,0 +1,1 @@
+Package-remover is an efficient tool for Linux/Ubuntu that enables the complete removal of software. In addition to uninstalling applications, it automatically deletes leftover configuration files and unnecessary dependencies. It is the ideal solution for maintaining a clean and fast system while maximizing disk space savings.
