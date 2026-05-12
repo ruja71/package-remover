@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Package Remover
+Comment=Deinstaliraj više paketa odjednom (apt, snap, flatpak)
+Exec=python3 /opt/package-remover/package-remover.py
+Icon=system-software-update
+Terminal=false
+Categories=System;Utility;
