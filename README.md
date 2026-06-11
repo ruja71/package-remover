@@ -1,1 +1,19 @@
-Package-remover is an efficient tool for Linux/Ubuntu that enables the complete removal of software. In addition to uninstalling applications, it automatically deletes leftover configuration files and unnecessary dependencies. It is the ideal solution for maintaining a clean and fast system while maximizing disk space savings.
+# Package Remover
+
+Efikasan alat za Linux/Ubuntu koji omogućava potpuno uklanjanje softvera sa GUI interfejsom.
+
+## Karakteristike
+
+- Grafički prikaz instaliranih paketa (GTK3)
+- Pretraga i filtriranje paketa
+- Uklanjanje paketa sa zavisnostima
+- Automatsko brisanje zaostalih konfiguracionih fajlova
+
+## Instalacija
+
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+Nakon instalacije, pokreni program iz menija ili sa `python3 /opt/package-remover/package-remover.py`.
